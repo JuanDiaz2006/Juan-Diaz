@@ -1,6 +1,6 @@
 # Juan-Diaz
-#Descripcion:Aprendiz-Analisis y Desarrollo de Sotfware
+# Descripcion:Aprendiz-Analisis y Desarrollo de Sotfware
 SENA- ADSO 
-###Informacion General
+### Informacion General
 -Lugar de residencia: HOBO
 Celular: 3144688796
